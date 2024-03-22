@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Héber Rodrigo Herrera Cruz",
+    "label": "Front-End developer with more than 4 years of experience",
+    "image": "/me.webp",
+    "email": "ing.heberh@gmail.com",
+    "phone": "+52 312 116 9942",
+    "url": "https://midu.dev",
+    "summary": "A dedicated Front-End, UI, and React Native Developer with a passion for making visually captivating and exceptionally functional user experiences to every project. My expertise lies in transforming concepts into intuitive and engaging designs that go above and beyond user expectations.",
+    "location": {
+      "address": "",
+      "postalCode": "28017",
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "heberin-herrera",
+        "url": "https://www.linkedin.com/in/heberin-herrera?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXjV9%2BWj2S7i9Bn%2B2ZN1syA%3D%3D"
+      },
+      {
+        "network": "GitHub",
+        "username": "Ing-Heber",
+        "url": "https://github.com/Ing-Heber"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Fairplay ",
+      "position": "Front-end Engineer JR L3",
+      "url": "https://www.linkedin.com/company/fairplay-freedom-to-scale/mycompany/",
+      "startDate": "2024-03-01",
+      "endDate": null,
+      "summary": "As a Front-End Developer at a dynamic startup in Mexico, I hold a central role in crafting the user experience of our web applications. Working closely with our skilled team, I focus on enhancing performance and usability, consistently striving for top-notch quality standards.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Definity First",
+      "position": "UI Developer",
+      "url": "https://www.linkedin.com/company/definityfirst/",
+      "startDate": "2021-03-19",
+      "endDate": "2023-08-10",
+      "summary": "In my capacity as a UI Developer, I've skillfully developed, updated, and launched impressive websites and applications for a wide range of clients. These accomplishments were driven by my commitment to ongoing learning, collaboration within dynamic teams, and direct interaction with clients.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "BrightCoders Academy",
+      "position": "React Native Developer",
+      "url": "https://www.linkedin.com/company/brightcoders/",
+      "startDate": "2020-08-01",
+      "endDate": "2021-02-01",
+      "summary": "I collaborated with a dynamic team during a bootcamp where I acquired proficiency in React Native and enhanced my front-end skills through hands-on experience with real-world projects.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [{}],
+  "education": [{
+    "institution": "Instituto de Capacitación Y Educación Profesional",
+    "url": "https://icep.edu.mx/",
+    "area": "Computer Software Engineering",
+    "studyType": "Engineer's degree",
+    "startDate": "2016-08-22",
+    "endDate": "2019-10-11",
+    "score": "9.6",
+    "courses": []
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Material UI",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Wordpress",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "CMS"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend", "Web development", "SPA", "JavaScript Library"
+      ]
+    }
+    ,
+    {
+      "name": "Next.js",
+      "level": "Begginer",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Todo App",
+      "isActive": true,
+      "description": "My todo app is built upon a sleek design crafted in Figma. Forget about losing your data – even if you refresh your browser, it has got you covered with local storage for seamless data persistence.",
+      "highlights": [
+        "React",
+        "Custom Hooks",
+        "Data persistence",
+        "Unit Tests",
+        "Completed"
+      ],
+      "url": "https://ing-heber.github.io/Todo-App/",
+      "github": "https://github.com/Ing-Heber/Todo-App"
+    }
+  ]
+}
