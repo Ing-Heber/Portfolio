@@ -6,6 +6,8 @@
 <p>JSON Resume schema <a href="https://jsonresume.org/schema/">jsonresume.org</a></p>
 <p>Following <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a> design</p>
 
+</div>
+
 
 ## 🛠️ Stack
 
@@ -22,11 +24,11 @@
 
 ## 📘 Commands
 
-|     | Command          | Action                                        |
-| :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` o `start`  | Starts local server at `localhost:4321`.  |
-| ⚙️  | `build`          | Gets distribution folder `./dist/`.      |
-| ⚙️  | `preview`        | Preview local server `localhost:4321` |
+|      | Command         | Action                                   |
+| :--- | :-------------- | :--------------------------------------- |
+| ⚙️    | `dev` o `start` | Starts local server at `localhost:4321`. |
+| ⚙️    | `build`         | Gets distribution folder `./dist/`.      |
+| ⚙️    | `preview`       | Preview local server `localhost:4321`    |
 
 
 
